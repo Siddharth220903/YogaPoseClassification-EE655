@@ -15,8 +15,8 @@ and inconsistent backgrounds.
 Before training the model, download the data in a folder. Maintain seperate directories for Train and Test.
 
 ## Model Training:
-To train the model, use [View script](train.py). Update the dataset paths. To run the file using the following command: python train.py
+To train the model, use [Train.py](Train.py). Update the dataset paths. To run the file using the following command: python train.py
 You can change the model defination in the code, to train on different models.
 
 ## Inference:
-Inference script helps enable live Yoga pose classification using your webcam. Update API key to google's gemini Flash 1.5 to run the inference script and generate suggestions to improve your Yoga Aasan.
+[Inference.py](Inference.py) Inference script helps enable live Yoga pose classification using your webcam. Update API key to google's gemini Flash 1.5 to run the inference script and generate suggestions to improve your Yoga Aasan.
