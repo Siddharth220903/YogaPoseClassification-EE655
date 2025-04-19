@@ -199,7 +199,7 @@ mp_drawing_styles = mp.solutions.drawing_styles # For drawing specs
 llm_model = None
 llm_available = False
 try:
-    api_key = "AIzaSyDms_HimOJuI0Gs69vxCtiziDZAbKgWZYU"
+    api_key = "..."
     if not api_key or api_key == "YOUR_API_KEY_HERE":
        raise ValueError("API Key not found or not replaced.")
 
