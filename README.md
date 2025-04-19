@@ -1,4 +1,4 @@
-# EE655 Project: Real-Time Yoga Pose Guidance System\n
+# EE655 Project: Real-Time Yoga Pose Guidance System
 This project uses computer vision and AI to analyze your yoga practice in real-time via webcam. It provides guidance for five fundamental poses (Downward Dog, Warrior, Tree, Goddess, Plank) by:
 Extracting skeletal landmarks using MediaPipe.
 Classifying the pose with a Custom CNN (achieving 99.62% accuracy).
